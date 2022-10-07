@@ -1,3 +1,2 @@
-# task-ascii-art
+# main-template
 
-testing
